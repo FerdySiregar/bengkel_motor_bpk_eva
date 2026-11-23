@@ -1,2 +1,6 @@
 # bengkel_motor_bpk_eva
-tes readme
+NAMA KELOMPOK :
+- Ferdy Megga Raja Siregar
+- Mohamad Rafsyan
+- Yunitha Olivia Putri
+- Hilda Kusnadi
